@@ -10,10 +10,10 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [Ruby](https://git.generalassemb.ly/ga-wdi-boston/ruby)
--   [Ruby Arrays](https://git.generalassemb.ly/ga-wdi-boston/ruby-array)
--   [JavaScript Reference Types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
--   [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods)
+- [Ruby](https://git.generalassemb.ly/ga-wdi-boston/ruby)
+- [Ruby Arrays](https://git.generalassemb.ly/ga-wdi-boston/ruby-array)
+- [JavaScript Reference Types](https://git.generalassemb.ly/ga-wdi-boston/js-reference-types)
+- [JavaScript Array Methods](https://git.generalassemb.ly/ga-wdi-boston/js-array-iteration-methods)
 
 ## Array#push vs. Array.prototype.push()
 
